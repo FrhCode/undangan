@@ -35,12 +35,12 @@ export default function App() {
     {
       name: "Nurlaela Sari",
       message:
-        "Alhamdulillah🥰🥰 ikut seneng teh, shalihahku, akhirnya Allah pertemukan dg jodohnya, selamat yaa..terharu bgt, baarokallohulakuma, semoga lancar samai hari H ada dlm lindungan & ridho Allah, bahagia dunia akhirat.. aamiin 😍",
+        "Alhamdulillah🥰🥰 ikut seneng Syida & Suami, shalihahku, akhirnya Allah pertemukan dg jodohnya, selamat yaa..terharu bgt, baarokallohulakuma, semoga lancar samai hari H ada dlm lindungan & ridho Allah, bahagia dunia akhirat.. aamiin 😍",
     },
     {
       name: "Indri ✨",
       message:
-        "Barakallahu lakuma ✨Semoga teh Ifa dan pasangan menjadi keluarga yang bisa mengarungi samudra Mawaddah dan meniti tangga Rohmah, supaya bermukim dipuncak Sakinah ✨🤍",
+        "Barakallahu lakuma ✨Semoga Syida dan pasangan menjadi keluarga yang bisa mengarungi samudra Mawaddah dan meniti tangga Rohmah, supaya bermukim dipuncak Sakinah ✨🤍",
     },
   ]);
 
