@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/undangan/static/css/main.bcd8786c.css",
+    "main.js": "/undangan/static/js/main.39785148.js",
+    "static/media/emotional-cinematic-background-piano-inspirational-orchestral-music-115915.mp3": "/undangan/static/media/emotional-cinematic-background-piano-inspirational-orchestral-music-115915.e59dea6fc4e9424eadf8.mp3",
+    "static/media/fa-solid-900.ttf": "/undangan/static/media/fa-solid-900.422cfe2813b03d900c10.ttf",
+    "static/media/fa-brands-400.ttf": "/undangan/static/media/fa-brands-400.aff1938a5c48584fa92b.ttf",
+    "static/media/fa-solid-900.woff2": "/undangan/static/media/fa-solid-900.64d495f582d4a1590a6c.woff2",
+    "static/media/pngwing.com.png": "/undangan/static/media/pngwing.com.14c329c88642dcc1f826.png",
+    "static/media/pexels-karen-laårk-boshoff-7436111.jpg": "/undangan/static/media/pexels-karen-laårk-boshoff-7436111.7eacf5e4f5b6cba2bcaf.jpg",
+    "static/media/fa-brands-400.woff2": "/undangan/static/media/fa-brands-400.a914b121110f8b6e01c9.woff2",
+    "static/media/pngegg.png": "/undangan/static/media/pngegg.c2622390262b7b7fa2fc.png",
+    "static/media/pexels-cottonbro-6153883.jpg": "/undangan/static/media/pexels-cottonbro-6153883.d5de6d8d900951a595d4.jpg",
+    "static/media/fa-regular-400.ttf": "/undangan/static/media/fa-regular-400.625dca125b58060788da.ttf",
+    "static/media/pexels-pixabay-265856.jpg": "/undangan/static/media/pexels-pixabay-265856.ac69593e5fccfcdc9c47.jpg",
+    "static/media/wanita.png": "/undangan/static/media/wanita.5538650901b7bfeba58a.png",
+    "static/media/fa-regular-400.woff2": "/undangan/static/media/fa-regular-400.47074dec01b64a5db2c4.woff2",
+    "static/media/fa-v4compatibility.ttf": "/undangan/static/media/fa-v4compatibility.ea8535110e0c42fd0046.ttf",
+    "static/media/fa-v4compatibility.woff2": "/undangan/static/media/fa-v4compatibility.2ec4574b00d1d21ed0a3.woff2",
+    "index.html": "/undangan/index.html",
+    "main.bcd8786c.css.map": "/undangan/static/css/main.bcd8786c.css.map",
+    "main.39785148.js.map": "/undangan/static/js/main.39785148.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcd8786c.css",
+    "static/js/main.39785148.js"
+  ]
+}
