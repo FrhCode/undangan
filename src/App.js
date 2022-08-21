@@ -572,12 +572,9 @@ export default function App() {
       <section className="bg-teal-700 p-8 text-center text-white">
         <p>
           Made with Love ❤ by
-          <a
-            href="https://www.instagram.com/farhanfaj/?hl=id"
-            target="noopener"
-          >
+          <a href="https://www.instagram.com/muhammadzydane/" target="noopener">
             {" "}
-            @farhanfaj
+            @muhammadzydane
           </a>
         </p>
       </section>
