@@ -569,7 +569,7 @@ export default function App() {
         </div>
       </section>
 
-      <section className="bg-teal-700 p-8 text-center text-white">
+      <section className="mb-[76px] bg-teal-700 p-8 text-center text-white">
         <p>
           Made with Love ❤ by
           <a href="https://www.instagram.com/muhammadzydane/" target="noopener">
