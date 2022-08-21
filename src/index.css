@@ -1,13 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600&family=Poppins:wght@300;400;600;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body.openInvitations {
+  overflow: scroll;
+}
+#welcome {
+  transition: top 500ms ease-in-out 0s, opacity 0ms ease-in-out 500ms,
+    visibility 0ms ease-in-out 500ms;
+}
+body.openInvitations #welcome {
+  opacity: 0;
+  visibility: hidden;
+}
+
+section {
+  overflow: hidden;
+}
+
+input[type="radio"] {
+  display: none;
+  position: relative;
+  /* visibility: hidden; */
+}
+
+.helper-radio {
+  position: relative;
+  height: 15px;
+  width: 15px;
+  display: inline-block;
+}
+
+.helper-radio::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  border-radius: 999999999px;
+  @apply border-2 border-solid border-teal-900;
+}
+
+input[type="radio"]:checked + .helper-radio::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -45%);
+  height: 60%;
+  width: 60%;
+  border-radius: 999999999px;
+  @apply bg-teal-900;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+.show {
+  @apply translate-x-0 translate-y-0;
 }
