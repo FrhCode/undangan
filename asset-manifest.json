@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/undangan/static/css/main.bcd8786c.css",
-    "main.js": "/undangan/static/js/main.17a8c2d7.js",
+    "main.css": "/undangan/static/css/main.a716f892.css",
+    "main.js": "/undangan/static/js/main.5b4477a5.js",
     "static/media/emotional-cinematic-background-piano-inspirational-orchestral-music-115915.mp3": "/undangan/static/media/emotional-cinematic-background-piano-inspirational-orchestral-music-115915.e59dea6fc4e9424eadf8.mp3",
     "static/media/fa-solid-900.ttf": "/undangan/static/media/fa-solid-900.422cfe2813b03d900c10.ttf",
     "static/media/fa-brands-400.ttf": "/undangan/static/media/fa-brands-400.aff1938a5c48584fa92b.ttf",
@@ -18,11 +18,11 @@
     "static/media/fa-v4compatibility.ttf": "/undangan/static/media/fa-v4compatibility.ea8535110e0c42fd0046.ttf",
     "static/media/fa-v4compatibility.woff2": "/undangan/static/media/fa-v4compatibility.2ec4574b00d1d21ed0a3.woff2",
     "index.html": "/undangan/index.html",
-    "main.bcd8786c.css.map": "/undangan/static/css/main.bcd8786c.css.map",
-    "main.17a8c2d7.js.map": "/undangan/static/js/main.17a8c2d7.js.map"
+    "main.a716f892.css.map": "/undangan/static/css/main.a716f892.css.map",
+    "main.5b4477a5.js.map": "/undangan/static/js/main.5b4477a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcd8786c.css",
-    "static/js/main.17a8c2d7.js"
+    "static/css/main.a716f892.css",
+    "static/js/main.5b4477a5.js"
   ]
 }
