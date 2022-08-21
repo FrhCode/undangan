@@ -48,7 +48,7 @@ export default function App() {
   const formKehadiran = useRef();
 
   useEffect(() => {
-    document.querySelector("body").classList.add("debug-screens");
+    // document.querySelector("body").classList.add("debug-screens");
 
     const interval = setInterval(() => {
       const date1 = date;
@@ -58,7 +58,7 @@ export default function App() {
     }, 1000);
     return () => {
       clearInterval(interval);
-      document.querySelector("body").classList.remove("debug-screens");
+      // document.querySelector("body").classList.remove("debug-screens");
     };
   }, [date]);
 
